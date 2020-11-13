@@ -1,0 +1,11 @@
+﻿  Lab2_1.cpp
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Matrix.h(16,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Matrix.h(23,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Matrix.h(32,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Matrix.h(33,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Lab2_1.cpp(13,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Matrix.h(65): warning C4172: возвращение адреса локальной или временной переменной : temp_array
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Matrix.h(83): warning C4172: возвращение адреса локальной или временной переменной : temp_array
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Vector.h(33): warning C4172: возвращение адреса локальной или временной переменной : temp_array
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2\Vector.h(46): warning C4172: возвращение адреса локальной или временной переменной : temp_array
+  FishenkoLab2.vcxproj -> C:\Users\31010\source\repos\FishenkoLab2\Debug\FishenkoLab2.exe

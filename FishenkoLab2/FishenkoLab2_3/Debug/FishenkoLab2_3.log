@@ -1,0 +1,6 @@
+﻿  Lab2_3.cpp
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2_3\Photographer.h(86,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2_3\Lab2_3.cpp(41,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2_3\Lab2_3.cpp(49,30): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\31010\source\repos\FishenkoLab2\FishenkoLab2_3\Lab2_3.cpp(55,30): warning C4305: аргумент: усечение из "double" в "float"
+  FishenkoLab2_3.vcxproj -> C:\Users\31010\source\repos\FishenkoLab2\Debug\FishenkoLab2_3.exe
